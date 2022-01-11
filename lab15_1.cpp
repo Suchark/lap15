@@ -25,6 +25,7 @@ for (int i = 0; i < N - 1; i++)
 }
 
 
+
 int main(){
 	int a[10] = {12,25,30,44,2,0,4,7,55,25};
 	cout << "Input Array:";
