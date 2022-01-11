@@ -1,2 +1,2 @@
-# NAME:
+# NAME:ศุชานุช รินคำ
 # STUDENT ID:
